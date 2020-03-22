@@ -9999,6 +9999,7 @@ Aman Panjwani
 - [M Hanzala](https://github.com/MuhammadHanzala)
 - [Austin LeBel](https://github.com/slatefox)
 - [Karthikeyan Sankar](https://github.com/Karthik-Sankar)
+- [Hilery Taylor](https://https://github.com/htaylor777)
 - [Bhargav Srinivasan](https://github.com/bhargav95)
 - [Jetter C](https://github.com/JetterC) 
 - [Aditya Varma](https://github.com/AdityaVarmaUddaraju)
